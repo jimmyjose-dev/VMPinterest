@@ -17,6 +17,6 @@ https://itunes.apple.com/in/app/vmpinterest-custom-framework/id607998053?mt=8
 5) Create new board to pin  <br>
 6) Get list of existing board in Pinterest  <br>
 7) Pin local images to existing or new board on Pinterest  <br>
-8) Pin multiple local images to existing or new board on Pinterst <br> 
+8) Pin multiple local images to existing or new board on Pinterest <br> 
 9) Pin remote image to existing or new board on Pinterest  <br>
 10) Pin multiple remote image to existing or new board on Pinterest 
