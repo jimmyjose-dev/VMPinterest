@@ -45,7 +45,7 @@ Screenshots
 Fix needed
 ---------
 
-The framework might stop working at anytime, currently we are not working on this project anymore but incase anybody needs any guidance on how to fix it, feel free to write to us.
+The framework might stop working at anytime, we are not working on this project anymore but incase somebody needs any guidance on how to fix it, feel free to write to us.
 
 
 
