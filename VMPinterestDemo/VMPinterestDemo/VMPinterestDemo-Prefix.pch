@@ -1,0 +1,20 @@
+//
+// Prefix header for all source files of the 'VMPinterestDemo' target in the 'VMPinterestDemo' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <VMPinterest/VMPinterestHeader.h>
+    #import "MBProgressHUD.h"
+    #import "LoginViewController.h"
+    #import "DeviceType.h"
+    #import <QuartzCore/QuartzCore.h>
+    #define SERVER_URL "http://www.varshyl-tech.com/pinterst-framework/ImageUploadVMPinterest.php"
+#endif

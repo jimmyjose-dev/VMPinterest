@@ -1,0 +1,26 @@
+(I)option for sending for single image
+    1)Description for image
+    2)Link for the image
+    3)Choose board for the image
+
+(II)Multiple images
+    1)Description for image
+    2)Link for the image
+    3)Choose board for the image
+    
+(III)Error Handling and Reporting
+
+http://developer.apple.com/library/ios/#documentation/uikit/reference/UIWebView_Class/Reference//Reference.html#//apple_ref/doc/uid/TP40006950-CH3-DontLinkElementID_2
+
+Things to verify:
+If the user cancels login
+Get user info after login
+If login is not successful
+The image at the URL mentioned for posting exists or what happens when an invalid link image is used
+When we create a board with a name which already exists
+Handle that name of the board being sent is in the same form as in the web
+
+load initially with dummy image then post real image.
+
+Service to just create a new board
+Handle if the user uses other functions before using signing
